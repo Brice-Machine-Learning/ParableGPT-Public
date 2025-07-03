@@ -111,7 +111,7 @@ All texts used are from public domain or appropriately licensed datasets.
 
 ## 🎨 Screenshots
 
-*(Add screenshots or GIFs here when available to showcase UI and features.)*
+*(Placeholder -- Add screenshots or GIFs here when available to showcase UI and features.)*
 
 ---
 
@@ -139,8 +139,6 @@ ParableGPT is designed to evolve into a SaaS platform offering:
 - Premium summarization
 - Personalized insights
 - Developer API for research and enterprise applications
-
-*(See [SaaS feature brainstorm](#) for details — link your brainstorm doc here if desired.)*
 
 ---
 
